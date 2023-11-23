@@ -4,7 +4,13 @@
 print("Hello World!")
 ```
 
-#Tuesdays Lesson:
+# Weekly Challenges: 
+
+- Explored:
+    - Functions
+    - Control Flow
+
+# Tuesdays Lesson:
 
  - discussed different data types:
      - boolean
